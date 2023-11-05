@@ -1,11 +1,11 @@
-#cofe mohammad
+#cafe mohammad
 
 total_1 = 0
 total_2 = 0
 total_3 = 0
 total_4 = 0
 
-coffee = {
+caffee = {
     "espresso" : 20000,
     "hot ch0colate" : 35000,
     "moka" : 40000,

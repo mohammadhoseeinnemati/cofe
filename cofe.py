@@ -40,7 +40,7 @@ while self_checkout != "done":
             break
     
     customer = int (input(f"how many {self_checkout} did you ger? "))
-
+def my_function(coffe):
     if self_checkout == "espresso":
         total_1 = coffee["espresso"] * customer + total_1
         print(f"total is {total_1}")
@@ -58,8 +58,7 @@ while self_checkout != "done":
         print(f"total is {total_4}")
 
     total = total_1 + total_2 + total_3 + total_4
-
+    
     print("your had been enterd")
     switch=1
-
-print (f"so your total is {total}")
+my_function(coffe)
